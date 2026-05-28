@@ -1,8 +1,16 @@
 # ColorOS系统应用分身设置为10
 
+![ColorOS系统应用分身设置为10](preview-banner.png)
+
 作者：Rainto0820
 
 这是一个用于 ColorOS / OPlus 系统应用分身的 SukiSU / KernelSU 模块，用来把系统应用分身数量稳定设置为 10 个。
+
+## 下载
+
+请到 Releases 下载正式安装包：
+
+[下载 v1.0](https://github.com/Rainto0820/ColorOS-MultiApp-10/releases/tag/v1.0)
 
 ## 为什么只设置为 10 个
 
@@ -21,6 +29,13 @@
 - SukiSU Ultra
 
 其他 ColorOS / OPlus 机型暂未验证，安装前建议先做好备份。
+
+## 实测截图
+
+<p>
+  <img src="screenshot-settings-10.jpg" alt="系统应用分身页面显示最多可创建 10 个分身" width="360">
+  <img src="screenshot-launcher-10.jpg" alt="桌面文件夹中显示微信 1 到微信 10" width="360">
+</p>
 
 ## 安装方式
 
