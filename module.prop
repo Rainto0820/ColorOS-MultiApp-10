@@ -1,0 +1,6 @@
+id=coloros_multiapp_limit_10
+name=ColorOS系统应用分身设置为10
+version=1.0
+versionCode=1
+author=Rainto0820
+description=将 ColorOS 系统应用分身稳定设置为 10 个。当前仅测试一加 15 金标 ColorOS 16 系统；系统原生预留的分身用户范围为 990-999，超过 10 个会进入未验证范围，可能导致卡顿或系统异常。
