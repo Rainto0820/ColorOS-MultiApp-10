@@ -24,8 +24,8 @@
 
 ## 已测试环境
 
-- 一加 15 金标
-- ColorOS 16
+- 一加 15
+- ColorOS 16 金标
 - SukiSU Ultra
 
 其他 ColorOS / OPlus 机型暂未验证，安装前建议先做好备份。

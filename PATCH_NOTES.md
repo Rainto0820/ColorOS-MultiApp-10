@@ -12,8 +12,8 @@ This range maps to 10 clone users. Trying to create an 11th clone enters unverif
 
 ## Tested Device
 
-- OnePlus 15 Gold Label
-- ColorOS 16
+- OnePlus 15
+- ColorOS 16 Gold Label
 - SukiSU Ultra
 
 ## Future Work
