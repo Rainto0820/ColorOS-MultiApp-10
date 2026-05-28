@@ -4,7 +4,7 @@
 
 作者：Rainto0820
 
-这是一个用于 ColorOS / OPlus 系统应用分身的 SukiSU / KernelSU 模块，用来把系统应用分身数量稳定设置为 10 个。
+这是一个用于 ColorOS 16系统应用分身的 SukiSU / KernelSU 模块，用来把系统应用分身数量稳定设置为 10 个。
 
 ## 下载
 
@@ -28,7 +28,7 @@
 - ColorOS 16 金标
 - SukiSU Ultra
 
-其他 ColorOS / OPlus 机型暂未验证，安装前建议先做好备份。
+其他 ColorOS 16 机型暂未验证，安装前建议先做好备份。
 
 ## 实测截图
 

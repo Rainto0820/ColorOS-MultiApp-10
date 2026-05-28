@@ -2,7 +2,7 @@
 
 This repository keeps the editable module source files only. Flashable zip packages are published in GitHub Releases.
 
-The stable v1.0 module patches the ColorOS / OPlus multi-app framework behavior to use the tested 10-clone range.
+The stable v1.0 module patches the ColorOS 16 multi-app framework behavior to use the tested 10-clone range.
 
 ## Stable Range
 
