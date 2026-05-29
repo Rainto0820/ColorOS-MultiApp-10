@@ -10,7 +10,18 @@
 
 请到 Releases 下载正式安装包：
 
-[下载 v1.0](https://github.com/Rainto0820/ColorOS-MultiApp-10/releases/tag/v1.0)
+[下载 v1.1](https://github.com/Rainto0820/ColorOS-MultiApp-10/releases/tag/v1.1)
+
+## 更新记录
+
+### v1.1
+
+- 修复部分机型安装后，已经开启若干应用分身时，其他未开启应用显示灰色、无法继续开启分身的问题。
+- 继续保持最多 10 个分身，不突破系统原生预留的稳定用户范围。
+
+### v1.0
+
+- 首个稳定版本，将 ColorOS 16系统应用分身数量设置为 10 个。
 
 ## 为什么只设置为 10 个
 

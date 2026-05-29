@@ -2,7 +2,17 @@
 
 This repository keeps the editable module source files only. Flashable zip packages are published in GitHub Releases.
 
-The stable v1.0 module patches the ColorOS 16 multi-app framework behavior to use the tested 10-clone range.
+The stable v1.1 module patches the ColorOS 16 multi-app framework behavior to use the tested 10-clone range and fixes a gray-button issue on some devices.
+
+## v1.1
+
+- Fixes an issue where unopened apps could become gray and could not open app clone after several apps were already cloned.
+- Keeps the limit at 10 clone users.
+- Keeps the tested user ID range at `990-999`.
+
+## v1.0
+
+- Initial stable release for setting ColorOS 16 system app clone limit to 10.
 
 ## Stable Range
 
